@@ -1,7 +1,7 @@
 name: SuperScrapTest
 favicon: null
-layout_spectrum: 0.22385669709183276
-typography_spectrum: 0.053922429447993636
+layout_spectrum: 0.26782
+typography_spectrum: 0.62873
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.046297487802803516
+  brandStrength: 0.5
   lightness: 0.7166856718249619
   saturation: 0.6594694617670029
   rhythmicContrast: 0.15902110445313156
