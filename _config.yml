@@ -1,0 +1,28 @@
+name: SuperScrapTest
+favicon: null
+layout_spectrum: 0.22385669709183276
+typography_spectrum: 0.053922429447993636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.046297487802803516
+  lightness: 0.7166856718249619
+  saturation: 0.6594694617670029
+  rhythmicContrast: 0.15902110445313156
+purpose: []
