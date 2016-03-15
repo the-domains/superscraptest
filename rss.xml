@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SuperScrapTest]]></title>
         <description><![CDATA[SuperScrapTest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/superscraptest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 13:29:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 13:29:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/superscraptest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/EWqfYFc.jpg">]]></description>
+            <link>https://thegrid.ai/superscraptest/5062cb44-5fcb-4b1d-93bb-184df47fa5d3/index.html</link>
+            <guid isPermaLink="false">5062cb44-5fcb-4b1d-93bb-184df47fa5d3</guid>
+            <pubDate>Tue, 15 Mar 2016 13:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How America's Recycling Crisis Threatens You]]></title>
             <description><![CDATA[<article><h1>How America's Recycling Crisis Threatens You</h1><p>America is going to trash. We may feel guilty about it. But out of sight, out of mind. That is the state of recycling today in America. Even California, America's greenest state, is at the tip of the trash can on this national trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/467301c3782174a2aacc17cfabf4028a1b4c4859.jpg"></article>]]></description>
